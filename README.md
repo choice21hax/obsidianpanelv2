@@ -21,6 +21,10 @@ A modern, minimalistic server management panel designed for game hosting compani
 - **Build Tool**: Vite
 - **Development**: ESLint, PostCSS
 
+## Demo
+
+http://f2ra86-ip-18-210-230-215.tunnelmole.net/
+
 ## Getting Started
 
 1. Clone the repository:
